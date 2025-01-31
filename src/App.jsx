@@ -23,7 +23,7 @@ const App = () => {
         <Experience />
         <Contact />
         <div className="text-center text-sm text-stone-300 py-8">
-          &copy; 2024 Syed Misbah. All Rights Reserved.
+          &copy; 2025 Syed Misbah. All Rights Reserved.
         </div>
       </div>
     </div>

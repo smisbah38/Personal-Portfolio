@@ -1,5 +1,6 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
 
 export const HERO_CONTENT = `I am a passionate frontend developer with experience in crafting scalable web applications. I have developed proficiency in frontend technologies such as ReactJS, TailwindCSS, Bootstrap, HTML, CSS, and JavaScript. I am also expanding my skills in backend technologies with the goal of becoming a full-stack developer. My aim is to leverage my skills to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -22,6 +23,22 @@ export const PROJECTS = [
     technologies: ["React", "Express", "Node.js", "MongoDB", "TailwindCSS"],
     link: "https://evergreen-pied.vercel.app/",
     linkName: "Evergreen Live Link",
+  },
+  {
+    title: "Fourthgear Car Website",
+    image: project3,
+    description:
+      "The car dealership website is fully functional, featuring user authentication, product listings, and a review system. It includes an admin panel that allows efficient management of car listings, product updates, and review moderation. The platform ensures a smooth and user-friendly experience for both customers and administrators.",
+    technologies: [
+      "ReactJS",
+      "Express",
+      "NodeJS",
+      "EmailJS",
+      "Tailwind CSS",
+      "MongoDB",
+    ],
+    link: "https://fourthgearbd.vercel.app/",
+    linkName: "Fourthgear Live Link",
   },
   {
     title: "Open Job",
