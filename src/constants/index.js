@@ -6,7 +6,7 @@ export const HERO_CONTENT = `I am a passionate frontend developer with experienc
 
 export const EXPERIENCES = [
   {
-    year: "1st November 2023 - 31st January 2024",
+    year: "1st February 2023 - 31st July 2024",
     role: "Intern Developer",
     company: "Zed and Zed IT",
     description: `Developed a file management application for office use using React, Node.js, and Firebase. Collaborated effectively with other interns and successfully met project deadlines set by the assigned supervisor. Provided daily updates on project progress to ensure transparency and alignment with team goals.  `,
@@ -52,7 +52,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Matri Chaya, Commissioner Road, Kallyanpur, Mirpur, Dhaka ",
+  address: "Ma Villa, Kuratoli, Vatara, Kuril, Dhaka ",
   phoneNo: "+880 1680004310 ",
   email: "syedmisbah38@gmail.com",
 };
